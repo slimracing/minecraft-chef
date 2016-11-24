@@ -1,0 +1,4 @@
+.kitchen.yml
+.chef
+.vagrant
+secrets
